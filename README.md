@@ -11,7 +11,7 @@ Interactive Pizza Sales Performance Dashboard: Designed to analyze key sales met
 ---
 
 ## 🧠 What I Built (High Level)
-- Cleaned and transformed sales and calendar tables using **Power Query** and **SQL**
+- Cleaned and transformed sales and calendar tables using **Power Query** and **SQL** (SQL queries added to the file sql queries.md)
 - Created measures for key KPIs:    
   - Total Revenue
   - Average Order Value
